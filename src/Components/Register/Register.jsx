@@ -1,10 +1,9 @@
-
+import { Link } from "react-router-dom";
 
 const Register = () => {
     return (
         <div>
              <div className="hero min-h-screen bg-base-200">
-  <div className="hero-content flex-col lg:flex-row-reverse">
    
     <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
       <form className="card-body">
@@ -40,11 +39,12 @@ const Register = () => {
         <div className="form-control mt-5">
           <button  className="btn btn-primary">Register</button>
         </div>
+        <p className="text-center mt-8"> Already have an account? <Link className="text-red-600" to="/login">Login</Link></p>
       </form>
     </div>
   </div>
 </div>
-        </div>
+      
     );
 };
 

@@ -1,0 +1,123 @@
+[
+    {
+      "estate_title": "Luxury Villa with Ocean View",
+      "id": 1,
+      "segment_name": "Villa",
+      "description": "Stunning villa overlooking the ocean, featuring spacious living areas, private pool, and modern amenities.",
+      "price": 1500000,
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Coastal Paradise, California",
+      "facilities": ["living room", "swimming pool", "kitchen"],
+      "image": "https://i.ibb.co/M6YsfD9/Carlsbad-CA.jpg"
+    },
+    {
+      "estate_title": "Downtown Penthouse",
+      "id": 2,
+      "segment_name": "Penthouse",
+      "description": "Sleek penthouse in the heart of the city, offering panoramic city views, high-end finishes, and concierge services.",
+      "price": 12000,
+      "status": "rent",
+      "area": "2000 sq ft",
+      "location": "Metropolis City, New York",
+      "facilities": ["living room", "gym", "rooftop terrace"],
+      "image": "https://i.ibb.co/ZgwMW5F/census-concept-photographed-town-23-2148993146.jpg"
+    },
+    {
+      "estate_title": "Country Estate with Vineyard",
+      "id": 3,
+      "segment_name": "Estate",
+      "description": "Picturesque estate nestled in the countryside with a vineyard, spacious interiors, and outdoor entertaining areas.",
+      "price": 2500000,
+      "status": "sale",
+      "area": "7000 sq ft",
+      "location": "Rural Haven, Tuscany",
+      "facilities": ["living room", "wine cellar", "gardens"],
+      "image": "https://i.ibb.co/GWqmx0t/rural-landscape-serene-harvest-haven-tuscany-italy-green-vineyard-farm-hill-with-scenic-mountain-sun.jpg"
+    },
+    {
+      "estate_title": "Modern Loft in Arts District",
+      "id": 4,
+      "segment_name": "Loft",
+      "description": "Chic loft space in the vibrant arts district, featuring open-plan living, industrial accents, and city skyline views.",
+      "price": 800000,
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Creative Hub, London",
+      "facilities": ["living room", "art studio", "balcony"],
+      "image": "https://i.ibb.co/Rg0BS2H/2021-07-THEATRE-Site-Photo-c-Sharron-Wallace-Brixton-House-Carlton-Mansions-Image-1-scaled.jpg"
+    },
+    {
+      "estate_title": "Beachfront Condo with Resort Amenities",
+      "id": 5,
+      "segment_name": "Condo",
+      "description": "Beachfront condo with resort-style amenities including pools, spa, and direct beach access, perfect for vacation or rental income.",
+      "price": 500000,
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Tropical Paradise, Bali",
+      "facilities": ["living room", "swimming pool", "beach access"],
+      "image": "image_url_5.jpg"
+    },
+    {
+      "estate_title": "Mountain Retreat with Ski Slope Access",
+      "id": 6,
+      "segment_name": "Chalet",
+      "description": "Cozy chalet nestled in the mountains with ski slope access, fireplace, and breathtaking alpine views.",
+      "price": 1800000,
+      "status": "sale",
+      "area": "4000 sq ft",
+      "location": "Alpine Haven, Swiss Alps",
+      "facilities": ["living room", "fireplace", "ski storage"],
+      "image": "image_url_6.jpg"
+    },
+    {
+      "estate_title": "Golf Course Villa with Private Green",
+      "id": 7,
+      "segment_name": "Villa",
+      "description": "Luxurious villa overlooking the golf course with a private green, pool, and spacious entertainment areas.",
+      "price": 2200000,
+      "status": "sale",
+      "area": "6000 sq ft",
+      "location": "Golfers' Paradise, Florida",
+      "facilities": ["living room", "swimming pool", "golf course access"],
+      "image": "image_url_7.jpg"
+    },
+    {
+      "estate_title": "Historic Townhouse in Old Quarter",
+      "id": 8,
+      "segment_name": "Townhouse",
+      "description": "Charming townhouse steeped in history, located in the old quarter with period features and courtyard garden.",
+      "price": 1000000,
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Heritage District, Prague",
+      "facilities": ["living room", "garden", "historical charm"],
+      "image": "image_url_8.jpg"
+    },
+    {
+      "estate_title": "Riverside Apartment with City Views",
+      "id": 9,
+      "segment_name": "Apartment",
+      "description": "Modern apartment overlooking the river, featuring floor-to-ceiling windows, balcony, and contemporary design.",
+      "price": 700000,
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Riverfront District, Sydney",
+      "facilities": ["living room", "balcony", "river views"],
+      "image": "image_url_9.jpg"
+    },
+    {
+      "estate_title": "Eco-Friendly Retreat in Rainforest",
+      "id": 10,
+      "segment_name": "Eco House",
+      "description": "Sustainable eco-house nestled in the rainforest, offering off-grid living, tranquility, and natural surroundings.",
+      "price": 350000,
+      "status": "sale",
+      "area": "2200 sq ft",
+      "location": "Rainforest Reserve, Costa Rica",
+      "facilities": ["living room", "solar panels", "nature trails"],
+      "image": "image_url_10.jpg"
+    }
+  ]
+  
